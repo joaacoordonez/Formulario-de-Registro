@@ -20,3 +20,6 @@ Efectos hover a los botones y campos del formulario.
 Verifica en tiempo real si los datos son correctos, mostrando mensajes de error o éxito.
 No permite enviar el formulario si hay errores en los campos.
 Mensaje de confirmación después del registro.
+
+# GitHub Pages: 
+https://joaacoordonez.github.io/Formulario-de-Registro/
